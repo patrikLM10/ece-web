@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: patrikLM10.github.io/gate-ece-notes
+  baseUrl: patrikLM10.github.io/ece-web
   ignorePatterns:
     - private
     - templates
